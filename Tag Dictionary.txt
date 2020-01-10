@@ -1,0 +1,18 @@
+ Tag Dictionary
+  
+  a: Anchor tag, makes links useable. Attributes: Href, Example <a Href="https://www.nintendo.com">Website</a>
+
+ H1: Header tag, makes the text large and puts it on a seperate line. Attributes: none, Example <h1>Hey</h1>
+ 
+ H6: A smaller version of H1, This being the smallest. Good for subheadings. Attributes: none, Example <h6>Hey</h6>
+
+img: Used to add images. Attributes: src, example <IMG src="Luigi.Gif">  
+ 
+ li: Makes a list, ends useing the close version. Attributes: none, Example <li>Coins</li>
+
+ ol: Turns list into a number list. Attributes: none, Example <ol>
+                                                              <li> 
+  P: Used for making paragraphs close version used to identify closing. Attributes: none, Example <p>I live in my brothers shadow.</p>
+
+ ul: Turns list into bullet points. Attributes: none, Example <ul>
+                                                              <li>
