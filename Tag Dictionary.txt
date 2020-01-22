@@ -2,7 +2,15 @@
   
   a: Anchor tag, makes links useable. Attributes: Href, Example <a Href="https://www.nintendo.com">Website</a>
 
+Body: Identifies the body of html and compresses. Attributes: none, Example
+
+Div: adds boxes. Attributes: none, example 	   div width: 800px;border: 3px solid green;margin-left: auto;margin-right: auto;margin-top: 50px; padding: 20px;background-color: black;}
+
  H1: Header tag, makes the text large and puts it on a seperate line. Attributes: none, Example <h1>Hey</h1>
+ 
+ Head: identifies head of html and Compresses. Attributes: none, Example <head><title>First Website</title></head>
+ 
+ Html:Chooses most current version of html doctype. Attributes: none, <!DOCTYPE html>
  
  H6: A smaller version of H1, This being the smallest. Good for subheadings. Attributes: none, Example <h6>Hey</h6>
 
@@ -14,5 +22,12 @@ img: Used to add images. Attributes: src, example <IMG src="Luigi.Gif">
                                                               <li> 
   P: Used for making paragraphs close version used to identify closing. Attributes: none, Example <p>I live in my brothers shadow.</p>
 
+Title: makes a title for the tab. Attributes: none, Example <title>First Website</title>
+
+style: uses Css to make things pretty. Attributes: none, example <style> sasda </style>
+
  ul: Turns list into bullet points. Attributes: none, Example <ul>
-                                                              <li>
+                                                              <li>z											
+<!DOCTYPE>: Chooses what vesrion of html to use. Attributes: none, Example <!DOCTYPE html>
+
+<!---->: adds a comment	
